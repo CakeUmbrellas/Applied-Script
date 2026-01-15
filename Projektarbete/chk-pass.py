@@ -43,3 +43,4 @@ with open('passwords.txt', 'r') as f:
 			else:
 				print (f"Kunde inte kolla lösenordet för {username}.")
 
+# Snyggt jobbat! /Tomas
